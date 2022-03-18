@@ -1,0 +1,34 @@
+table{
+    width: 100%;
+    margin-top: 7px;
+    border-collapse: collapse;
+}
+
+thead{
+    background: #6B8068;
+}
+
+thead td{
+    color: white;
+}
+
+
+td {
+    color: black;
+    border-top: 1px solid #e8edff;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+tbody tr:hover td {
+    color: white;
+    background: #c8d1c7;
+}
+
+.buttonPanel{
+    opacity: 0;
+}
+
+tr:hover .buttonPanel{
+    opacity: 1;
+}

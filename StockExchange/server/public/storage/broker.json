@@ -1,0 +1,5 @@
+[{"id":1,"name":"Владимир","cash":1000,
+  "shares": [{"id":0,"name":"Яндекс","amount":10,"auction_amount":5},
+    {"id":1,"name":"Google","amount":50,"auction_amount":0}]
+},{"id":2,"name":"Иван","cash":700,"shares": [{"id":0,"name":"Microsoft","amount":100,"auction_amount":30},
+  {"id":1,"name":"Google","amount":200,"auction_amount":20}]}]

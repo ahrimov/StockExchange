@@ -1,0 +1,8 @@
+[{"id":1,"data":
+{"name":"Яндекс","probability_distrib":"Равномерное","max_number":100,"amount":"100","start_price":50}, "price": 50,
+  "auction_amount": 90
+},
+  {"id":2,"data":
+  {"name":"Google","probability_distrib":"Равномерное","max_number":200,"amount":"1000","start_price":180}, "price": 180, "auction_amount": 750 },
+  {"id":3,"data":
+  {"name":"Microsoft","probability_distrib":"Нормальное","max_number":60,"amount":"2000","start_price":120},  "price": 120, "auction_amount": 1900}]
